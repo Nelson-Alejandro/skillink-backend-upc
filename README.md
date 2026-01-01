@@ -22,6 +22,20 @@ Skillink es una plataforma que conecta estudiantes con asesores especializados e
 
 *Proyecto desarrollado en el ciclo 2025-2*
 
+## Repositorios Relacionados
+
+Este proyecto es el **backend** de Skillink. Para el frontend, visita:
+
+**Frontend Repository**: [skillink-frontend-upc](https://github.com/Nelson-Alejandro/skillink-frontend-upc)
+
+### Arquitectura Completa
+
+```mermaid
+graph LR
+    A[FrontendAngular] -->|API REST| B[BackendSpring Boot]
+    B -->|JPA| C[(PostgreSQL)]
+```
+
 ## Tecnologías Utilizadas
 
 - **Java 17**
