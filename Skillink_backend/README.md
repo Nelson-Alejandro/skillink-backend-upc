@@ -20,7 +20,7 @@ Skillink es una plataforma que conecta estudiantes con asesores especializados e
 - **Jhair Martel** 
 - **Nelson Alejandro** 
 
-*Proyecto desarrollado en el ciclo 2024-2*
+*Proyecto desarrollado en el ciclo 2025-2*
 
 ## 🛠Tecnologías Utilizadas
 
