@@ -22,7 +22,7 @@ Skillink es una plataforma que conecta estudiantes con asesores especializados e
 
 *Proyecto desarrollado en el ciclo 2025-2*
 
-## 🛠Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Java 17**
 - **Spring Boot 3.x**
