@@ -14,11 +14,11 @@ Skillink es una plataforma que conecta estudiantes con asesores especializados e
 
 ## Equipo de Desarrollo
 
+- **Nelson Alejandro** 
 - **Javier Chumpitazi** 
 - **Lehonel Cachay** 
 - **Jose Matos** 
 - **Jhair Martel** 
-- **Nelson Alejandro** 
 
 *Proyecto desarrollado en el ciclo 2025-2*
 
